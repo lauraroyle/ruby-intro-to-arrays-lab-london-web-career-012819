@@ -15,17 +15,17 @@ def third_element(array)
 end
 
 def last_element(array)
-  Array.-1
+  array.-1
 end
 
 def first_element_with_array_methods(array)
-  Array.first
+  array.first
 end
 
 def last_element_with_array_methods(array)
-  Array.last
+  array.last
 end
 
 def length_of_array(array)
-  Array.length
+  array.length
 end
